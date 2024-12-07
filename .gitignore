@@ -116,9 +116,3 @@ dmypy.json
 *.db
 *.sqlite3
 
-# Model and scaler files
-modelo_papas.onnx
-scaler_papas.pkl
-
-# CSV dataset
-dataset_caracteristicas_papas.csv
